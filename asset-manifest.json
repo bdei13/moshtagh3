@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moshtagh3/static/css/main.5f361e03.chunk.css",
+    "main.js": "/moshtagh3/static/js/main.6d931d32.chunk.js",
+    "main.js.map": "/moshtagh3/static/js/main.6d931d32.chunk.js.map",
+    "runtime-main.js": "/moshtagh3/static/js/runtime-main.804a19a8.js",
+    "runtime-main.js.map": "/moshtagh3/static/js/runtime-main.804a19a8.js.map",
+    "static/js/2.763b34e5.chunk.js": "/moshtagh3/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/moshtagh3/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/moshtagh3/index.html",
+    "precache-manifest.d0b896551ca0d27930289c7229b4c94f.js": "/moshtagh3/precache-manifest.d0b896551ca0d27930289c7229b4c94f.js",
+    "service-worker.js": "/moshtagh3/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/moshtagh3/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/moshtagh3/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/moshtagh3/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.804a19a8.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6d931d32.chunk.js"
+  ]
+}
